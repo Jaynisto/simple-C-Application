@@ -1,0 +1,14 @@
+C:\Users\fanie\CsharpProjects\FirstMethod\bin\Debug\net8.0\FirstMethod.exe
+C:\Users\fanie\CsharpProjects\FirstMethod\bin\Debug\net8.0\FirstMethod.deps.json
+C:\Users\fanie\CsharpProjects\FirstMethod\bin\Debug\net8.0\FirstMethod.runtimeconfig.json
+C:\Users\fanie\CsharpProjects\FirstMethod\bin\Debug\net8.0\FirstMethod.dll
+C:\Users\fanie\CsharpProjects\FirstMethod\bin\Debug\net8.0\FirstMethod.pdb
+C:\Users\fanie\CsharpProjects\FirstMethod\obj\Debug\net8.0\FirstMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanie\CsharpProjects\FirstMethod\obj\Debug\net8.0\FirstMethod.AssemblyInfoInputs.cache
+C:\Users\fanie\CsharpProjects\FirstMethod\obj\Debug\net8.0\FirstMethod.AssemblyInfo.cs
+C:\Users\fanie\CsharpProjects\FirstMethod\obj\Debug\net8.0\FirstMethod.csproj.CoreCompileInputs.cache
+C:\Users\fanie\CsharpProjects\FirstMethod\obj\Debug\net8.0\FirstMethod.dll
+C:\Users\fanie\CsharpProjects\FirstMethod\obj\Debug\net8.0\refint\FirstMethod.dll
+C:\Users\fanie\CsharpProjects\FirstMethod\obj\Debug\net8.0\FirstMethod.pdb
+C:\Users\fanie\CsharpProjects\FirstMethod\obj\Debug\net8.0\FirstMethod.genruntimeconfig.cache
+C:\Users\fanie\CsharpProjects\FirstMethod\obj\Debug\net8.0\ref\FirstMethod.dll
